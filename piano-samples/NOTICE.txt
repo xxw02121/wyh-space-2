@@ -1,0 +1,6 @@
+Piano sample assets in this folder are copied from:
+Open-Web-Piano by iBundin
+https://github.com/iBundin/Open-Web-Piano
+
+The upstream README describes Open-Web-Piano as MIT licensed.
+These files are used here as local piano samples for the private gift page.
